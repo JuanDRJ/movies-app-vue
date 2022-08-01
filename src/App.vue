@@ -388,6 +388,16 @@ a{
 }
 }
 
+.logo-header{
+  margin:10px;
+  width: 50px;
+}
 
+.header input:focus{
+  width: 200px;
+  outline:none;
+
+  
+}
 
 </style>
